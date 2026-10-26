@@ -1,0 +1,16 @@
+device_id,farm_id,sample_id,temperature,humidity,soil_moisture,status
+AgroSense-Farm1-Sensor01,farm1,1,29.01,79.18,33.76,connected
+AgroSense-Farm1-Sensor01,farm1,2,33.6,71.01,57.3,connected
+AgroSense-Farm1-Sensor01,farm1,3,30.49,38.82,24.57,connected
+AgroSense-Farm1-Sensor01,farm1,4,24.77,72.45,64.5,connected
+AgroSense-Farm1-Sensor01,farm1,5,29.17,81.63,70.69,connected
+AgroSense-Farm1-Sensor01,farm2,1,27.67,83.89,65.23,connected
+AgroSense-Farm1-Sensor01,farm2,2,27.62,59.17,55.97,connected
+AgroSense-Farm1-Sensor01,farm2,3,21.9,56.79,35.73,connected
+AgroSense-Farm1-Sensor01,farm2,4,37.67,38.73,69.04,connected
+AgroSense-Farm1-Sensor01,farm2,5,32.81,82.14,21.42,connected
+AgroSense-Farm1-Sensor01,farm3,1,22.66,38.5,20.31,connected
+AgroSense-Farm1-Sensor01,farm3,2,27.46,58.18,41.94,connected
+AgroSense-Farm1-Sensor01,farm3,3,26.25,66.95,36.42,connected
+AgroSense-Farm1-Sensor01,farm3,4,22.73,56.55,55.19,connected
+AgroSense-Farm1-Sensor01,farm3,5,33.74,75.12,32.17,connected

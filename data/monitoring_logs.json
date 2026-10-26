@@ -1,0 +1,92 @@
+[
+  {
+    "farm_id": "farm1",
+    "timestamp": "2026-10-26T09:39:31.601926+00:00",
+    "status": "published",
+    "publish_ack_latency_ms": 12.85
+  },
+  {
+    "farm_id": "farm1",
+    "timestamp": "2026-10-26T09:39:32.114922+00:00",
+    "status": "published",
+    "publish_ack_latency_ms": 19.19
+  },
+  {
+    "farm_id": "farm1",
+    "timestamp": "2026-10-26T09:39:32.634267+00:00",
+    "status": "published",
+    "publish_ack_latency_ms": 14.53
+  },
+  {
+    "farm_id": "farm1",
+    "timestamp": "2026-10-26T09:39:33.148953+00:00",
+    "status": "published",
+    "publish_ack_latency_ms": 21.51
+  },
+  {
+    "farm_id": "farm1",
+    "timestamp": "2026-10-26T09:39:33.670618+00:00",
+    "status": "published",
+    "publish_ack_latency_ms": 12.35
+  },
+  {
+    "farm_id": "farm2",
+    "timestamp": "2026-10-26T09:39:34.183123+00:00",
+    "status": "published",
+    "publish_ack_latency_ms": 11.07
+  },
+  {
+    "farm_id": "farm2",
+    "timestamp": "2026-10-26T09:39:34.694340+00:00",
+    "status": "published",
+    "publish_ack_latency_ms": 12.06
+  },
+  {
+    "farm_id": "farm2",
+    "timestamp": "2026-10-26T09:39:35.206549+00:00",
+    "status": "published",
+    "publish_ack_latency_ms": 18.93
+  },
+  {
+    "farm_id": "farm2",
+    "timestamp": "2026-10-26T09:39:35.725643+00:00",
+    "status": "published",
+    "publish_ack_latency_ms": 15.92
+  },
+  {
+    "farm_id": "farm2",
+    "timestamp": "2026-10-26T09:39:36.241742+00:00",
+    "status": "published",
+    "publish_ack_latency_ms": 24.04
+  },
+  {
+    "farm_id": "farm3",
+    "timestamp": "2026-10-26T09:39:36.765936+00:00",
+    "status": "published",
+    "publish_ack_latency_ms": 17.2
+  },
+  {
+    "farm_id": "farm3",
+    "timestamp": "2026-10-26T09:39:37.283282+00:00",
+    "status": "published",
+    "publish_ack_latency_ms": 11.87
+  },
+  {
+    "farm_id": "farm3",
+    "timestamp": "2026-10-26T09:39:37.795295+00:00",
+    "status": "published",
+    "publish_ack_latency_ms": 8.69
+  },
+  {
+    "farm_id": "farm3",
+    "timestamp": "2026-10-26T09:39:38.304145+00:00",
+    "status": "published",
+    "publish_ack_latency_ms": 20.55
+  },
+  {
+    "farm_id": "farm3",
+    "timestamp": "2026-10-26T09:39:38.824872+00:00",
+    "status": "published",
+    "publish_ack_latency_ms": 11.07
+  }
+]
